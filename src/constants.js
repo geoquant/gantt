@@ -11,7 +11,7 @@ export const DATA = {
       groomerName: "Creed Bratton",
       groomerTitle: "Quality Assurance",
       groomerGroup: "",
-      breakTime: { start: "", end: "" },
+      breakTime: { start: "12:00 PM", end: "1:00 PM" },
       appointments: [
         {
           type: "available",
@@ -25,7 +25,7 @@ export const DATA = {
       groomerName: "Kelly Kapur",
       groomerTitle: "Master Stylist",
       groomerGroup: "",
-      breakTime: { start: "", end: "" },
+      breakTime: { start: "5:00 PM", end: "7:00 PM" },
       appointments: [
         {
           type: "booked",
